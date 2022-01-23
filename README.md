@@ -1,7 +1,26 @@
 # FSD-Project - GLOBAL HOSPITALS
 Hostpital Management System
 
-COLLABORATED PROJECT DONE BY 
+<table>
+  <tr>
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/66979717?v=4" width="210px;" height="230px;" alt=""/><br /><sub><b>KIREETI</b></sub></a><br />
+  <br/>
+   <p align="center">
+   <a href="https://github.com/Kireeti2001" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+   <td align="center"><img src="https://avatars.githubusercontent.com/u/78893155?v=4" width="210px;" height="230px;"  alt=""/><br/><sub><b>HASWANTH</b></sub></a><br />
+   <br/>
+   <p align="center">
+   <a href="https://github.com/Haswanth2002" alt="Github">
+     <img src="http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width = "30">
+  </a>
+  </p>
+</td>
+    </tr>
+    </table>
 
 # VIDEO DEMO : https://youtu.be/PEO8f_OwpK8
 
